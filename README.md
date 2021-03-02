@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Some of my Github Stats
+🔭 I’m currently working on DELL Technologies as an Automation Engineer.
+## Git Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ankitrhode&theme=chartreuse-dark&show_icons=true"/>
 </div>
