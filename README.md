@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=ankitrhode&theme=chartreuse-dark&show_icons=true"/>
 </div>
 
+<hr>
+<p align="center">
+  <i><b>Connect to me here</b></i>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ankitcse/" alt="Linkedin"><img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" height="30" width="30"></a>&nbsp;
+    </a>&nbsp;
+  </p>   
+</p>
+
