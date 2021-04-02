@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/ankitrhode" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="30" width="30"></a>&nbsp;
 <a href="https://github.com/ankitrhode?tab=repositories" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="30"></a>&nbsp;
 
-<br />
 ---
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ankitcse/" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30"></a>&nbsp;
@@ -38,9 +37,9 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitrhode&theme=chartreuse-dark&show_icons=true"/>
-
+  </div>
 </details>
 
 
