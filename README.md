@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 </div>
 
 ### Profiles:
-
-[<img align="left" alt="ankitrhode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.hackerrank.com/ankitrhode" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" height="30" width="30"></a>
+<a href="https://auth.geeksforgeeks.org/user/ankitrhode/profile" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" height="30" width="30"></a>
+<a href="https://www.codechef.com/users/ankitrhode" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="30" width="30"></a>
+<a href="https://github.com/ankitrhode?tab=repositories" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="30"></a>
 
 <br />
 
 ### Connect with me:
-
+<a href="https://www.linkedin.com/in/ankitcse/" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30"></a>
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
