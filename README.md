@@ -30,11 +30,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Ankit77372326" alt="Linkedin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="30"></a>&nbsp;
 
 ---
-### Git Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ankitrhode&theme=chartreuse-dark&show_icons=true"/>
-</div>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <div align="center">
